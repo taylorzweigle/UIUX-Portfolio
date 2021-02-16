@@ -1,0 +1,57 @@
+---DESIGN REQUIREMENTS---
+
+Need to be able to create a song and include its name, artist name, and album name.
+
+Need to be able to view all songs and sort by its name, artist name, and album name.
+
+Need to be able to search for song based on its name, artist name, and album name.
+
+Need to be able to delete song.
+
+Need to be able to view song.
+
+Need to be able to edit song.
+
+Need to be able to see song name, artist name, and album name when editing song.
+
+Need to be able to add a song section (e.g. Intro, Verse, Chorus, Bridge, Solo, Outro).
+
+Need to be able to view song section tab.
+
+Need to be able to edit song section tab.
+
+Need to be able to indicate tuning.
+
+Need to be able to indicate capo.
+
+Need to be able to reorder song sections.
+
+Need to be able to add tabs for lead guitar and rhythm guitar.
+
+Need to be able to see song section name.
+
+Need to be able to see song section tab preview.
+
+Need to be able to see song section recommended effects pedals.
+
+Need to be able to see guitar part, guitar tuning, and guitar capo when viewing song section.
+
+Need to be able to see recommended effects pedals and their settings when viewing song section.
+
+Need to be able to add notes to tab when editing song section.
+
+Need to be able to add note embellishments when editing song section (e.g. Palm Mute, Harmonic, Slide, Half Bend, Full Bend).
+
+Need to be able to add effect pedals when editing song section.
+
+Need to be able to remove effect pedals when editing song section.
+
+Need to be able to edit effects pedals settings when editing song section.
+
+Need to be able to save edited song section.
+
+Need to be able to cancel changes when editing song section.
+
+Need to be able to add effect pedal.
+
+Need to be able to search for effect pedal.

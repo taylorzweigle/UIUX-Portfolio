@@ -1,0 +1,45 @@
+---DESIGN REQUIREMENTS---
+
+Need to be able to create a game and include its opponent, location, date, result, score, and total plays.
+
+Need to be able to view all games sorted by date.
+
+Need to be able to filter games by year, where a table only shows games for one season at a time.
+
+Need to be able to delete a game.
+
+Need to be able to view a game.
+
+Need to be able to edit a game.
+
+Need to be able to see game opponent, date, result, and score when editing a game.
+
+Need to be able to add a play to a game (e.g., Down, Distance, Formation, Play, and Position).
+
+Need to be able to add result to a created play, if applicable (e.g., First Down, Touchdown, Interception).
+
+Need to be able to delete a play.
+
+Need to be able to edit a play.
+
+Need to be able to view plays for a game and sort by play number, first down, touchdown, and interception.
+
+Need to be able to filter plays for a game by down and distance, formation, and play.
+
+Need to be able to see a graphical representation of formations used for a game.
+
+Need to be able to see a graphical representation of plays called for a game.
+
+Need to be able to see a graphical representation of positions targeted for a game.
+
+Need to be able to see the game averages for formations, plays, and positions targeted for a game.
+
+Need to be able to see a graphical representation of formations used for a season.
+
+Need to be able to see a graphical representation of plays called for a season.
+
+Need to be able to see a graphical representation of positions targeted for a season.
+
+Need to be able to see the season averages for formations, plays, and positions targeted for a season.
+
+Need to be able to preview a playcall based upon formation.

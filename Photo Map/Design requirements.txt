@@ -1,0 +1,37 @@
+---DESIGN REQUIREMENTS---
+
+Need to be able to view a map of San Diego with all the locations of photos taken.
+
+Need to be able to pan and zoom the map.
+
+Need to be able to click on a pin to select a location.
+
+Need to be able to view how many visits and total number of photos taken at selected location.
+
+Need to be able to cancel selection.
+
+Need to be able to view photos taken at the selected location.
+
+Need to be able to have an infiniate scrolling thumbnail list of all photos taken at selected location.
+
+Need to be able to click on a photo to view the photo full screen.
+
+Need to be able to scroll through photos in the expanded view.
+
+Need to be able to see how many photos were taken at selected location when viewing photos.
+
+Need to be able to close out of photos in the expanded view.
+
+Need to be able to upload new photos to a new location.
+
+Need to be able to upload new photos to an already visited location.
+
+Need to be able to upload new photos to an already visited date at an already visited location.
+
+Need to be able to delete photos on an already visited location.
+
+Need to be able to delete photos on an already visited date at an already visited location.
+
+Need to be able to see locations of photos taken in a list view.
+
+Need to be able to have a summary of landmarks visited at a location.

@@ -8,7 +8,11 @@ Conceptual mockups for an iOS app that keeps track of photos taken at various lo
 
 ## Play Tracker
 
-Conceptual mockups for a desktop app that allows for easy creation of a game to track a team's air raid play calls. The home page renders a table of all games for a specified season. Viewing a game will show a table of plays, organized by play number, down and distance, formation, play call, position targeted, and if the play resulted in a first down, touchdown, or interception. Above the table is a form for easy creation of a play asking for the aforementioned details. Below the table are graphs showing the formation and play call distribution for the selected game. Additionally, on the home screen, the same graphical breakdowns will be displayed for that season's games. The ability to preview a play based on formation is also available on the home screen.
+Conceptual mockups for both a desktop and mobile app that allows for easy creation of a game to track a team's air raid play calls. The home page renders a table of all games for a specified season. Viewing a game will show a table of plays, organized by play number, down and distance, formation, play call, position targeted, and if the play resulted in a first down, touchdown, or interception. Above the table is a form for easy creation of a play asking for the aforementioned details. Below the table are graphs showing the formation and play call distribution for the selected game. Additionally, on the home screen, the same graphical breakdowns will be displayed for that season's games. The ability to preview a play based on formation is also available on the home screen.
+
+## Restaurant Time Tracker
+
+Conceptual mockups for both a desktop and mobile app that allows for the easy viewing of shift hours at a restaurant. The home screen renders a weekly view of assigned shift hours and the user has the ability to switch to a monthly view to see the same breakdown of shift assignments. Additionally, the user can click the button at the bottom of the screen to quickly log their hours for when they clocked in and when they clocked out.
 
 ## Tab Notebook
 

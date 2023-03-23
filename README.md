@@ -20,7 +20,7 @@ Conceptual mockups for a web app that allows for easy creation of sheet music fo
 
 ## Nookachamps Farms (Product Label)
 
-Conceptual mockups of the front and back panels for a hazelnut package label.
+Designed the front and back panels for a hazelnut packaging label for a family friend. Product produced and sold with the designed labels.
 
 ## Graphic Design
 
